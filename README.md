@@ -8,35 +8,35 @@ The HR Attrition Analysis project identified key factors driving employee turnov
 <img width="1308" height="736" alt="image" src="https://github.com/user-attachments/assets/3510a0c3-e7ce-4539-8ce4-9266c3730913" />
 
 #### Insights:
--Key Metrics: 
--Total Employees: 1,470
--Attrition Count: 237
--Attrition Rate: 16.12%
--Average Salary: $6.5K
--Average Age: 36.92 years
+- Key Metrics: 
+- Total Employees: 1,470
+- Attrition Count: 237
+- Attrition Rate: 16.12%
+- Average Salary: $6.5K
+- Average Age: 36.92 years
 
--**This page paints the broad picture: a mid-career, male-majority workforce, with attrition concentrated in R&D and Sales among employees aged 26–35. Salary and age distribution are normal, but turnover seems tied to career mobility and departmental stress.**
+- **This page paints the broad picture: a mid-career, male-majority workforce, with attrition concentrated in R&D and Sales among employees aged 26–35. Salary and age distribution are normal, but turnover seems tied to career mobility and departmental stress.**
 
 ### Page 2:
 <img width="1301" height="745" alt="image" src="https://github.com/user-attachments/assets/aa9d65d4-a536-4fe7-82fc-d4d0d88388f0" />
 
 #### Insights:
--Key Metrics: 
--Overtime Employees: 416
--Environment Satisfaction Avg: 2.72
--Job Satisfaction Avg: 2.73
--Work-Life Balance Avg: 2.76
+- Key Metrics: 
+- Overtime Employees: 416
+- Environment Satisfaction Avg: 2.72
+- Job Satisfaction Avg: 2.73
+- Work-Life Balance Avg: 2.76
 
--**This page reveals that overtime, mediocre work-life balance, and average satisfaction levels are major contributors to attrition.
+- **This page reveals that overtime, mediocre work-life balance, and average satisfaction levels are major contributors to attrition.
 Employees generally get along well but feel neutral about their jobs and environment — indicating a need for better engagement programs, flexibility, and growth opportunities.**
 
 #### Overall Insights:
-**Across both pages, attrition is driven by:
--Mid-career employees (26–35)
--R&D and Sales departments
--Overtime workload and average job satisfaction
--Moderate work-life balance
-Reducing overtime, improving recognition and role satisfaction, and providing career growth paths could help significantly lower the attrition rate.**
+**Across both pages, attrition is driven by:**
+**- Mid-career employees (26–35)**
+**- R&D and Sales departments**
+**- Overtime workload and average job satisfaction**
+**- Moderate work-life balance**
+**Reducing overtime, improving recognition and role satisfaction, and providing career growth paths could help significantly lower the attrition rate.**
 
 ### Tooltips:
 
