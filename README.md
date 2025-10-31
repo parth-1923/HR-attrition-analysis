@@ -1,6 +1,8 @@
 # HR-attrition-analysis
 The HR Attrition Analysis project identified key factors driving employee turnover using Power BI. Data was cleaned and transformed with Power Query, followed by EDA to extract insights. An interactive dashboard with KPIs and slicers visualized attrition trends to support data-driven HR decisions.
 
+**Dashboard Link:** https://app.powerbi.com/reportEmbed?reportId=50dd9c6f-5673-487b-8d48-b16327d75faf&autoAuth=true&ctid=bc88ed7e-984d-4728-939e-6ab8bfeaba1d
+
 ---
 
 ## Dashboard Screenshots:
