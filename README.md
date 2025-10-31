@@ -6,12 +6,12 @@ The HR Attrition Analysis project identified key factors driving employee turnov
 <img width="1308" height="736" alt="image" src="https://github.com/user-attachments/assets/3510a0c3-e7ce-4539-8ce4-9266c3730913" />
 
 #### Insights:
- - Overall Metrics:
-    --Total Employees: 1,470
-    --Attrition Count: 237
-    --Attrition Rate: 16.12%
-    --Average Salary: $6.5K
-    --Average Age: 36.92 years
+ - Overall Metrics: /n
+    -Total Employees: 1,470
+    -Attrition Count: 237
+    -Attrition Rate: 16.12%
+    -Average Salary: $6.5K
+    -Average Age: 36.92 years
 
 ### Page 2:
 <img width="1301" height="745" alt="image" src="https://github.com/user-attachments/assets/aa9d65d4-a536-4fe7-82fc-d4d0d88388f0" />
