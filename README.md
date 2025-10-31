@@ -37,7 +37,7 @@ Employees generally get along well but feel neutral about their jobs and environ
 - **Overtime workload and average job satisfaction**
 - **Moderate work-life balance**
   
-**Reducing overtime, improving recognition and role satisfaction, and providing career growth paths could help significantly lower the attrition rate.**
+- **Reducing overtime, improving recognition and role satisfaction, and providing career growth paths could help significantly lower the attrition rate.**
 
 ### Tooltips:
 
