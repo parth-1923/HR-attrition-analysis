@@ -32,10 +32,10 @@ Employees generally get along well but feel neutral about their jobs and environ
 
 #### Overall Insights:
 **Across both pages, attrition is driven by:**
-**- Mid-career employees (26–35)**
-**- R&D and Sales departments**
-**- Overtime workload and average job satisfaction**
-**- Moderate work-life balance**
+- **Mid-career employees (26–35)**
+- **R&D and Sales departments**
+- **Overtime workload and average job satisfaction**
+- **Moderate work-life balance**
 **Reducing overtime, improving recognition and role satisfaction, and providing career growth paths could help significantly lower the attrition rate.**
 
 ### Tooltips:
